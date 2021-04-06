@@ -20,8 +20,6 @@ namespace PrintEvenNumbers
             }
 
             Console.WriteLine(string.Join(", ", evenQueue));
-
-
         }
     }
 }
